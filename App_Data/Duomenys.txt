@@ -1,0 +1,28 @@
+Salų kiekis:          4
+n ir m reikšmės:     4    8
+Stačiakampio duomenys: 110100
+Stačiakampio duomenys: 000000
+n ir m reikšmės:    11    6
+Stačiakampio duomenys: 1000
+Stačiakampio duomenys: 1000
+Stačiakampio duomenys: 0110
+Stačiakampio duomenys: 1100
+Stačiakampio duomenys: 1100
+Stačiakampio duomenys: 0000
+Stačiakampio duomenys: 1010
+Stačiakampio duomenys: 1000
+Stačiakampio duomenys: 0000
+n ir m reikšmės:    12    9
+Stačiakampio duomenys: 0100110
+Stačiakampio duomenys: 0111000
+Stačiakampio duomenys: 0010110
+Stačiakampio duomenys: 1000000
+Stačiakampio duomenys: 1011100
+Stačiakampio duomenys: 1001110
+Stačiakampio duomenys: 0011000
+Stačiakampio duomenys: 1000100
+Stačiakampio duomenys: 0000100
+Stačiakampio duomenys: 0000000
+n ir m reikšmės:     4    4
+Stačiakampio duomenys: 00
+Stačiakampio duomenys: 00

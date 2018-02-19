@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Maps">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapsContainer">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAIAAAAAAAAQAAAAAAAAAAIAAAACAAAA=</HashCode>
+      <FileName>App_Code\MapsContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
